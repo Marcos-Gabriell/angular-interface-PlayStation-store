@@ -1,0 +1,28 @@
+@media (max-width: 768px) {
+  .menu-bar__container {
+    height: auto;
+    flex-direction: column;
+    padding: 10px 5px;
+  }
+
+  .menu-bar__logo {
+
+    padding: 10px;
+    margin: 0;
+    margin-bottom: 5px;
+  }
+
+  .menu-bar__item {
+    margin: 0;
+  }
+
+  .menu-bar__item > ul {
+    margin-left: 0;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .menu-bar__item > ul > li {
+    margin: 5px 0;
+  }
+}
