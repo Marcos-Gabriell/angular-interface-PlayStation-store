@@ -1,27 +1,45 @@
-# Store
+# Projeto de Recriação da Interface da PlayStation Store com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
+![PlayStation Store](https://github.com/Marcos-Gabriell/angular-interface-PlayStation-store/blob/main/src/assets/inter.png)
 
-## Development server
+Este é um projeto de estudo que tem como objetivo recriar a interface da PlayStation Store utilizando o framework Angular. A proposta é aprimorar suas habilidades de desenvolvimento web e Angular, bem como compreender os conceitos fundamentais de criação de interfaces de usuário dinâmicas e interativas.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Pré-requisitos
 
-## Code scaffolding
+Antes de iniciar o desenvolvimento, certifique-se de que possui as seguintes ferramentas instaladas em sua máquina:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- [Node.js](https://nodejs.org/): É necessário para executar o ambiente de desenvolvimento do Angular.
+- [Angular CLI](https://cli.angular.io/): A ferramenta de linha de comando do Angular para criar, compilar e testar aplicativos.
 
-## Build
+## Como Acessar o Projeto
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Para acessar o projeto, você pode escolher uma das seguintes opções:
 
-## Running unit tests
+### Acesso Remoto
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Você pode acessar o projeto remotamente através do seguinte link:
 
-## Running end-to-end tests
+[https://angular-interface-play-station-store.vercel.app/](https://angular-interface-play-station-store.vercel.app/)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+### Acesso Local
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Se você deseja clonar o projeto em sua máquina e executá-lo localmente, siga estas etapas:
+
+1. Abra o terminal ou prompt de comando.
+
+2. Navegue até o diretório onde deseja clonar o projeto.
+
+3. Execute o seguinte comando para clonar o repositório:
+
+   ```sh
+   git clone https://github.com/Marcos-Gabriell/angular-interface-PlayStation-store.git
+   
+4. Após a conclusão do processo de clonagem, navegue até o diretório do projeto: `cd angular-interface-PlayStation-store`
+
+5. Instale as dependências necessárias executando o seguinte comando: `npm install`
+
+6. Agora, você pode iniciar o projeto localmente com o Angular CLI:  `ng serve`
+7. O projeto estará disponível em seu navegador em: `http://localhost:4200/`
+
+
