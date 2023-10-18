@@ -10,7 +10,9 @@ Antes de iniciar o desenvolvimento, certifique-se de que possui as seguintes fer
 
 - [Node.js](https://nodejs.org/): É necessário para executar o ambiente de desenvolvimento do Angular.
 - [Angular CLI](https://cli.angular.io/): A ferramenta de linha de comando do Angular para criar, compilar e testar aplicativos.
-
+- Uma IDE (Ambiente de Desenvolvimento Integrado) ou um editor de código: Você pode escolher entre várias opções populares, como:
+  - [Visual Studio Code](https://code.visualstudio.com/download): Um editor de código leve e altamente personalizável, com extensões para JavaScript.
+    
 ## Como Acessar o Projeto
 
 Para acessar o projeto, você pode escolher uma das seguintes opções:
