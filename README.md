@@ -1,5 +1,13 @@
 # Projeto de Recriação da Interface da PlayStation Store com Angular
 
+## Linguagens e ferramentas  usadas
+<div >
+    <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+    <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img align="center" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</div><br/>
+
+
 ![PlayStation Store](https://github.com/Marcos-Gabriell/angular-interface-PlayStation-store/blob/main/src/assets/inter.png)
 
 Este é um projeto de estudo que tem como objetivo recriar a interface da PlayStation Store utilizando o framework Angular. A proposta é aprimorar suas habilidades de desenvolvimento web e Angular, bem como compreender os conceitos fundamentais de criação de interfaces de usuário dinâmicas e interativas.
