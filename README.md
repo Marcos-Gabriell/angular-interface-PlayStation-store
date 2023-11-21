@@ -30,7 +30,6 @@ Você pode acessar o projeto remotamente através do seguinte link:
 
 [https://angular-interface-play-station-store.vercel.app/](https://angular-interface-play-station-store.vercel.app/)
 
-
 ### Acesso Local
 
 Se você deseja clonar o projeto em sua máquina e executá-lo localmente, siga estas etapas:
