@@ -51,4 +51,3 @@ Se você deseja clonar o projeto em sua máquina e executá-lo localmente, siga 
 
 6. Agora, você pode iniciar o projeto localmente com o Angular CLI:  `ng serve`
 7. O projeto estará disponível em seu navegador em: `http://localhost:4200/`
-
